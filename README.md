@@ -1,2 +1,2 @@
 # BCD-Manipulation
-BCD Manipulation Techniques
+Binary Coded Decimal Coding and Encoding in Delphi
